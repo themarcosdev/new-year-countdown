@@ -4,7 +4,7 @@ const horasEl = document.getElementById("horas");
 const minutosEl = document.getElementById("minutos");
 const segundosEl = document.getElementById("segundos");
 
-const anoNovo = "1 Jan 2022";
+const anoNovo = "1 Jan 2024";
 
 //definindo uma função para def dias,hs,min e seg.
 function contadorRegressivo() {
